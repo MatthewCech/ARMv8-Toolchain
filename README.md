@@ -1,5 +1,5 @@
 #SETTING UP YOUR ECLIPSE EXPERIENCE(tm)
-Because of github's file size limits, you need to download a 500MB Eclipse distro, and a 130MB toolchain. The links and versions are below. Everything else you may need to download has already been downloaded.
+Because of github's file size limits, you need to download a 500MB Eclipse distro, and a 130MB toolchain - either from the links or https://drive.google.com/open?id=0B0jS3uE3U23qLW1UcnhyOUIxZG8. Everything else you may need to download has already been downloaded - these are all free to download tools elsewhere.
 
 - First, we need Eclipse. Download the community edition of ds5 here (after registering) https://developer.arm.com/products/software-development-tools/ds-5-development-studio/editions/community-edition.
 
